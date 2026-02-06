@@ -1,4 +1,7 @@
 # DeFi Risk Analytics Engine
+## Live Dashboard
+
+🔗 [View Aave V3 Liquidation Monitor on Dune](https://dune.com/adu0x/aave-v3-liquidation-monitor)
 
 A Python-based tool that analyzes wallet health and liquidation risk for DeFi lending protocols.
 
